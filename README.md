@@ -1,2 +1,2 @@
-# DataScienceAcademyFormacao
-Aqui colocarei os estudos sobre tudo aprendido dentro da formação.
+# DataScienceAcademy
+'Arquivos de estudo sobre a formação Analista de dados em python da Data Science Academy'
